@@ -30,6 +30,9 @@ __published:	// IDE-managed Components
     TMenuItem *N2;
     TMenuItem *N3;
     TMenuItem *N4;
+    TMemo *Memo1;
+    TButton *Button4;
+    TButton *Button5;
       void __fastcall Button3Click(TObject *Sender);
 
 private:	// User declarations

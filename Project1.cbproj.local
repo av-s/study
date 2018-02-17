@@ -2,15 +2,15 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>1899.12.30 00:00:00.000.811,=C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.838,=C:\Users\Александр\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.801,=C:\Users\Александр\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,C:\Users\Александр\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Project1.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.858,=C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2017.12.06 02:18:23.407,=C:\Users\Александр\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2017.12.06 02:18:23.423,=C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2017.12.06 02:53:34.025,C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Unit1.dfm=C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2017.12.06 02:53:34.025,C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Unit1.h=C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2017.12.06 02:53:34.025,C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Unit1.cpp=C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2017.12.06 02:53:51.559,C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Project1PCH1.h=C:\Users\Александр\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2017.12.06 02:53:54.835,C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Project1.cbproj=C:\Users\Александр\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.h=C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.801,=C:\Users\Александр\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,=C:\Users\Александр\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=C:\Users\Александр\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,C:\Users\Александр\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Users\Александр\Documents\RAD Studio\Projects\Proj4\Project1PCH1.h</Transaction>
   </Transactions>
 </BorlandProject>

@@ -104,6 +104,31 @@ object Form1: TForm1
       #1056#1072#1079#1076#1077#1083#1080#1090#1100)
     TabOrder = 6
   end
+  object Memo1: TMemo
+    Left = 48
+    Top = 216
+    Width = 529
+    Height = 137
+    Lines.Strings = (
+      'Memo1')
+    TabOrder = 7
+  end
+  object Button4: TButton
+    Left = 88
+    Top = 400
+    Width = 154
+    Height = 25
+    Caption = #1057#1095#1080#1090#1072#1090#1100' '#1080#1079' '#1092#1072#1081#1083#1072
+    TabOrder = 8
+  end
+  object Button5: TButton
+    Left = 392
+    Top = 400
+    Width = 145
+    Height = 25
+    Caption = #1047#1072#1087#1080#1089#1072#1090#1100' '#1074' '#1092#1072#1081#1083
+    TabOrder = 9
+  end
   object MainMenu1: TMainMenu
     Left = 488
     Top = 152
@@ -121,11 +146,11 @@ object Form1: TForm1
     end
   end
   object OpenDialog1: TOpenDialog
-    Left = 208
-    Top = 384
+    Left = 272
+    Top = 400
   end
   object SaveDialog1: TSaveDialog
-    Left = 360
-    Top = 384
+    Left = 320
+    Top = 400
   end
 end
