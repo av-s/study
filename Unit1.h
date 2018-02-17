@@ -34,6 +34,8 @@ __published:	// IDE-managed Components
     TButton *Button4;
     TButton *Button5;
       void __fastcall Button3Click(TObject *Sender);
+    void __fastcall Edit1focus(TObject *Sender);
+    void __fastcall Edit2focus(TObject *Sender);
 
 private:	// User declarations
 public:		// User declarations

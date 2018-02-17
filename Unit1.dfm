@@ -45,16 +45,28 @@ object Form1: TForm1
     Top = 32
     Width = 145
     Height = 21
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
     TabOrder = 0
-    Text = 'Edit1'
+    OnClick = Edit1focus
   end
   object Edit2: TEdit
     Left = 216
     Top = 32
     Width = 153
     Height = 21
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
     TabOrder = 1
-    Text = 'Edit2'
+    OnClick = Edit2focus
   end
   object Edit3: TEdit
     Left = 408
@@ -62,14 +74,19 @@ object Form1: TForm1
     Width = 129
     Height = 21
     TabOrder = 2
-    Text = 'Edit3'
   end
   object Button1: TButton
     Left = 48
     Top = 96
     Width = 73
     Height = 25
-    Caption = 'Button1'
+    Caption = 'p'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Symbol'
+    Font.Style = [fsBold]
+    ParentFont = False
     TabOrder = 3
   end
   object Button2: TButton
@@ -77,7 +94,13 @@ object Form1: TForm1
     Top = 136
     Width = 73
     Height = 25
-    Caption = 'Button2'
+    Caption = 'e'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
     TabOrder = 4
   end
   object Button3: TButton
@@ -109,8 +132,14 @@ object Form1: TForm1
     Top = 216
     Width = 529
     Height = 137
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
     Lines.Strings = (
       'Memo1')
+    ParentFont = False
     TabOrder = 7
   end
   object Button4: TButton
