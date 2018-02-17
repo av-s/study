@@ -16,6 +16,7 @@ __fastcall TForm1::TForm1(TComponent* Owner)
     : TForm(Owner)
 {
 }
+
 void __fastcall TForm1::Button3Click(TObject *Sender)
 {
  a = StrToFloat(Edit1->Text);
