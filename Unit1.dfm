@@ -108,7 +108,7 @@ object Form1: TForm1
     Top = 96
     Width = 105
     Height = 25
-    Caption = 'Button3'
+    Caption = #1042#1099#1095#1080#1089#1083#1080#1090#1100
     TabOrder = 5
     OnClick = Button3Click
   end
@@ -137,8 +137,6 @@ object Form1: TForm1
     Font.Height = -11
     Font.Name = 'Tahoma'
     Font.Style = []
-    Lines.Strings = (
-      'Memo1')
     ParentFont = False
     TabOrder = 7
   end
@@ -149,6 +147,7 @@ object Form1: TForm1
     Height = 25
     Caption = #1057#1095#1080#1090#1072#1090#1100' '#1080#1079' '#1092#1072#1081#1083#1072
     TabOrder = 8
+    OnClick = Button4Click
   end
   object Button5: TButton
     Left = 392
