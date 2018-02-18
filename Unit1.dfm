@@ -77,7 +77,7 @@ object Form1: TForm1
   end
   object Button1: TButton
     Left = 48
-    Top = 96
+    Top = 80
     Width = 73
     Height = 25
     Caption = 'p'
@@ -91,7 +91,7 @@ object Form1: TForm1
   end
   object Button2: TButton
     Left = 48
-    Top = 136
+    Top = 120
     Width = 73
     Height = 25
     Caption = 'e'
@@ -105,7 +105,7 @@ object Form1: TForm1
   end
   object Button3: TButton
     Left = 448
-    Top = 96
+    Top = 83
     Width = 105
     Height = 25
     Caption = #1042#1099#1095#1080#1089#1083#1080#1090#1100
@@ -113,10 +113,10 @@ object Form1: TForm1
     OnClick = Button3Click
   end
   object RadioGroup1: TRadioGroup
-    Left = 152
-    Top = 88
+    Left = 160
+    Top = 80
     Width = 250
-    Height = 121
+    Height = 81
     Caption = 'RadioGroup1'
     Columns = 2
     ItemIndex = 0
@@ -129,9 +129,9 @@ object Form1: TForm1
   end
   object Memo1: TMemo
     Left = 48
-    Top = 216
+    Top = 176
     Width = 529
-    Height = 137
+    Height = 153
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -157,9 +157,16 @@ object Form1: TForm1
     Caption = #1047#1072#1087#1080#1089#1072#1090#1100' '#1074' '#1092#1072#1081#1083
     TabOrder = 9
   end
+  object Edit4: TEdit
+    Left = 48
+    Top = 344
+    Width = 529
+    Height = 21
+    TabOrder = 10
+  end
   object MainMenu1: TMainMenu
     Left = 488
-    Top = 152
+    Top = 120
     object N1: TMenuItem
       Caption = #1060#1072#1081#1083
       object N2: TMenuItem

@@ -57,7 +57,7 @@ indinput=2;
 
 void __fastcall TForm1::Button4Click(TObject *Sender)
 {
-if(SaveDialog1->Execute(){
+if(SaveDialog1->Execute()){
 fname = SaveDialog1->FileName;
 Edit4->Text=fname;
 Memo1->Lines->LoadFromFile(fname);
