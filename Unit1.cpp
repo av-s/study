@@ -43,13 +43,12 @@ void __fastcall TForm1::Button3Click(TObject *Sender)
 }
 //---------------------------------------------------------------------------
 // ¬вод в edit1
-
 void __fastcall TForm1::Edit1focus(TObject *Sender)
 {
 indinput=1;
 }
 //---------------------------------------------------------------------------
-
+// ¬вод в edit2
 void __fastcall TForm1::Edit2focus(TObject *Sender)
 {
 indinput=2;
