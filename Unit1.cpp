@@ -42,13 +42,13 @@ void __fastcall TForm1::Button3Click(TObject *Sender)
  Edit3->Text = FloatToStrF(c,ffGeneral,7,2);
 }
 //---------------------------------------------------------------------------
-// ¬вод в edit1
+// ¬вод в окно edit1
 void __fastcall TForm1::Edit1focus(TObject *Sender)
 {
 indinput=1;
 }
 //---------------------------------------------------------------------------
-// ¬вод в edit2
+// ¬вод в окно edit2
 void __fastcall TForm1::Edit2focus(TObject *Sender)
 {
 indinput=2;
